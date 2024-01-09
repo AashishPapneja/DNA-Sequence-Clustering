@@ -1,1 +1,2 @@
-DNA Sequences Clustering 
+# DNA Clustering Application
+This is a DNA clustering application built using Python and the Tkinter library for the graphical user interface. The application allows users to perform clustering on a set of DNA sequences using various clustering algorithms, visualize the results, and analyze the clusters. Furthermore, the codebase also includes datasets sourced from Kaggle to enhance its practical applications. You can find the Kaggle [link1](https://www.kaggle.com/datasets/neelvasani/humandnadata), [link2](https://www.kaggle.com/datasets/neelvasani/chimpanzee-and-dog-dna) as provided here.
